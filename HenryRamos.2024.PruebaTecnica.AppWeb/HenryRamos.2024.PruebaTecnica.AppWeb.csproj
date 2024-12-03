@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>HenryRamos._2024.PruebaTecnica.AppWeb</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HenryRamos.2024.PruebaTecnica.BL\HenryRamos.2024.PruebaTecnica.BL.csproj" />
+    <ProjectReference Include="..\HenryRamos.2024.PruebaTecnica.EN\HenryRamos.2024.PruebaTecnica.EN.csproj" />
+  </ItemGroup>
+
+</Project>

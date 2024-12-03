@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Berenice\\source\\repos\\HenryRamos.2024.PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F52AB9F-2AC6-4445-BD63-7CD2D5B028C8}|HenryRamos.2024.PruebaTecnica.DAL\\HenryRamos.2024.PruebaTecnica.DAL.csproj|c:\\users\\berenice\\source\\repos\\henryramos.2024.pruebatecnica\\henryramos.2024.pruebatecnica.dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F52AB9F-2AC6-4445-BD63-7CD2D5B028C8}|HenryRamos.2024.PruebaTecnica.DAL\\HenryRamos.2024.PruebaTecnica.DAL.csproj|solutionrelative:henryramos.2024.pruebatecnica.dal\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Berenice\\source\\repos\\HenryRamos.2024.PruebaTecnica\\HenryRamos.2024.PruebaTecnica.DAL\\DBContext.cs",
+              "RelativeDocumentMoniker": "HenryRamos.2024.PruebaTecnica.DAL\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Berenice\\source\\repos\\HenryRamos.2024.PruebaTecnica\\HenryRamos.2024.PruebaTecnica.DAL\\DBContext.cs",
+              "RelativeToolTip": "HenryRamos.2024.PruebaTecnica.DAL\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:56:37.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

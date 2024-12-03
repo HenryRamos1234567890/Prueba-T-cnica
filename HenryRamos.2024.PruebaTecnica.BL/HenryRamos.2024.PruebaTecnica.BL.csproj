@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>HenryRamos._2024.PruebaTecnica.BL</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HenryRamos.2024.PruebaTecnica.DAL\HenryRamos.2024.PruebaTecnica.DAL.csproj" />
+    <ProjectReference Include="..\HenryRamos.2024.PruebaTecnica.EN\HenryRamos.2024.PruebaTecnica.EN.csproj" />
+  </ItemGroup>
+
+</Project>
